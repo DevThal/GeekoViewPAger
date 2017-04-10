@@ -66,7 +66,7 @@ Once your `Object` is registered with the `JazzyViewPager`, you're good to go!
 License
 -------
 
-    Copyright 2013 Jeremy Feinstein
+    Copyright 2013
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
